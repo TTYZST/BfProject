@@ -1,0 +1,23 @@
+{
+	"localinfo":[{
+		"devname": "",
+		"devstatus": "",
+		"devversion": "",
+		"chan": "",
+		"panid": "",
+		"myaddr": "",
+		"dsaddr": "",
+		"devmode": "",
+		"serial_rate": "",
+		"serial_datab": "",
+		"serial_stopb": "",
+		"serial_parotyb": "",
+		"serial_timeout": "",
+		"serial_byteout": "",
+		"datarate": "",
+		"powerlevel": "",
+		"retrynum": "",
+		"retrytimeout": "",
+		"sendmode": ""
+	}]
+}
